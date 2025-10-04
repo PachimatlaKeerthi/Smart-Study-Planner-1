@@ -1,9 +1,5 @@
 # Smart-Study-Planner-1
-to organize and track study schedules efficiently   # Smart Study Planner 📘  The Smart Study Planner helps students plan, organize, and track study schedules effectively. 
-# Smart Study Planner 📘
-
 The Smart Study Planner helps students plan, organize, and track study schedules effectively.
-
 ## 🧠 Features
 - Create and manage daily study plans
 - Set subject goals and reminders
@@ -16,3 +12,5 @@ The Smart Study Planner helps students plan, organize, and track study schedules
 - HTML, CSS, JavaScript
 - SQLite Database
 
+## 🚀 How to Run
+1. Clone this repository  
